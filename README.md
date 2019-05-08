@@ -21,3 +21,6 @@ Source Link: http://vision.stanford.edu/aditya86/ImageNetDogs/main.html
 
 # Files
 
+Path_setup_Preprocessing.ipynb - Set directory and preprocess the data
+CNN_scratch - CNN architecture built from scratch
+VGG_16_Transfer_Learning - Implementation of transfer learning
