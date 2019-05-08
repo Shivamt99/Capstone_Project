@@ -13,9 +13,13 @@ This project hopes to identify dog breeds from images. This is a fine-grained cl
 # Data Info
 
 The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. This dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. Contents of this dataset: 
+
 •	Number of categories: 120
+
 •	Number of images: 20,580
+
 •	Annotations: Class labels, Bounding boxes
+
 Source Link: http://vision.stanford.edu/aditya86/ImageNetDogs/main.html
 
 
