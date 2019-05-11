@@ -33,7 +33,7 @@ CNN_Model - CNN architecture built from scratch
 
 Transfer_Learning - Implementation of Vgg16 transfer learning
 
-# Refernces
+# References
 
 http://cs231n.stanford.edu/
 
@@ -43,6 +43,7 @@ Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 20
 J. Liu, A. Kanazawa, D. Jacobs, and P. Belhumeur, “Dog Breed Classification Using Part Localization”, Computer Vision–ECCV 2012. Springer Berlin Heidelberg, 2012. 172-185.
 
 A. Krizhevsky, I. Sutskever, and G. Hinton. “Imagenet classification with deep convolutional neural networks”, Advances in neural information processing systems. 2012.
+sakshm789
 
 https://arxiv.org/abs/1409.1556
 
@@ -51,6 +52,3 @@ http://ijarcet.org/wp-content/uploads/IJARCET-VOL-5-ISSUE-12-2707-2715.pdf
 http://cs231n.stanford.edu/reports/2015/pdfs/fcdh_FinalReport.pdf
 
 https://web.stanford.edu/class/cs231a/prev_projects_2016/output%20(1).pdf
-
-sakshm789
-
